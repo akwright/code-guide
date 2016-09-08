@@ -3,4 +3,4 @@ description:   Standards for developing flexible, durable, and sustainable HTML 
 
 markdown:      rdiscount
 permalink:     pretty
-highlighter:   pygments
+highlighter:   rogue
