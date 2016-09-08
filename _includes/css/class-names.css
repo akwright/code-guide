@@ -5,5 +5,5 @@
 
 /* Good example */
 .tweet { ... }
-.important { ... }
-.tweet-header { ... }
+.is-important { ... }
+.tweet__header { ... }

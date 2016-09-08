@@ -8,10 +8,11 @@
 /*
  * Component section heading
  *
- * Sometimes you need to include optional context for the entire component. Do that up here if it's important enough.
+ * Sometimes you need to include optional context for the entire component.
+ * Do that up here if it's important enough.
  */
 
 .element { ... }
 
-/* Contextual sub-component or modifer */
-.element-heading { ... }
+/* Contextual element or modifer */
+.element__heading { ... }
